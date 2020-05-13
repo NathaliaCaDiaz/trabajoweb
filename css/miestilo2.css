@@ -1,0 +1,45 @@
+	a {
+  		text-decoration: none;
+		}
+	.forma {
+	    	 width: 100%; 
+	    	 height: 70px;
+	    	}
+	.arribaI{ float: left; flex-start; 
+	    	width: 30%;
+	    	height: 150px;
+	   		 }
+	.arribaB{ float: left; flex-start; 
+	    	width: 70%;
+	    	height: 150px;
+	   		 }
+	.izquierda 
+	    { float: left; flex-start; 
+	    	width: 60%;
+	    	height: 700px;
+	    }
+	.centro 
+	    {float: left; flex-start;  
+	    	width: 20%; 
+	    	height: 700px;
+	    }
+	.derecha
+	    {float: left; flex-start;  
+	    	width: 20%; 
+	    	height: 700px;
+	    }
+	    p.ex1 {
+  direction: rtl;
+  unicode-bidi: bidi-override;
+}
+.button1 {
+	  background-color: white; 
+	  color: black; 
+	  border: 2px solid #008CBA;
+	}
+#caja1{
+	background-color: #f36523
+	display: flex;
+	float: left;
+	width: 25%;
+	height: 20px;
